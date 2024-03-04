@@ -1,0 +1,10 @@
+D:\Juranal_3\bin\Debug\Juranal_3.exe.config
+D:\Juranal_3\bin\Debug\Juranal_3.exe
+D:\Juranal_3\bin\Debug\Juranal_3.pdb
+D:\Juranal_3\obj\Debug\Juranal_3.csproj.AssemblyReference.cache
+D:\Juranal_3\obj\Debug\Juranal_3.Form1.resources
+D:\Juranal_3\obj\Debug\Juranal_3.Properties.Resources.resources
+D:\Juranal_3\obj\Debug\Juranal_3.csproj.GenerateResource.cache
+D:\Juranal_3\obj\Debug\Juranal_3.csproj.CoreCompileInputs.cache
+D:\Juranal_3\obj\Debug\Juranal_3.exe
+D:\Juranal_3\obj\Debug\Juranal_3.pdb
